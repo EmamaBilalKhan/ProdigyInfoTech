@@ -1,0 +1,1 @@
+This project implements a K Means Clustering model to group customers based on their Annual Income and Spending Score. In the Project, We first find optimal number of k using the Elbow Method and then we implement the Kmeans Clustering Algorithm.
